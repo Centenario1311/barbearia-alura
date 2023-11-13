@@ -1,9 +1,12 @@
-body{
-    text-align:center;
-    background:#cccccc;
+body {
+    text-align: center;
+    background: #cccccc;
 }
 
-strong{
-color:blue
-} 
+strong {
+    color: blue
+}
 
+.banner {
+    width: 100%;
+}
